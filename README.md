@@ -161,6 +161,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 * [MSBuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 * [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system with a C# DSL.
+* [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 
 ## Caching
 
@@ -175,7 +176,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Command Line Parser](https://github.com/gsscoder/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks
 * [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
-* [UnionArgParser](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
+* [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 
 ## CLR
 
@@ -243,6 +244,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript. https://geteventstore.com
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - http://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
+* [Marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications
+* [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ## Database Drivers
 
@@ -285,6 +288,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, higlhy versatile, peer to peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
+* [MBrace](http://mbrace.io/) - Integrated Data Scripting for the Cloud
 
 ## Documentation
 
@@ -324,6 +328,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Xenko](http://xenko.com/) - Xenko is a 2D/3D cross-platform game engine featuring a scene editor, particles, physically based rendering (PBR), scripting, and much more
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free c# component-based modern game engine which allows you to create cross-platform games supporting kinect, oculusrift, vuforia, cardboard, leapmotion and much more. **[Free][Proprietary]**
 * [UrhoSharp](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
+* [Nez](https://github.com/prime31/Nez) - Nez is a free 2D focused framework that works with MonoGame and FNA
 
 ## Gis
 
@@ -378,7 +383,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## HTTP
 
-* [Http.fs](https://github.com/relentless/Http.fs) - A functional HTTP client for `[F#]`.
+* [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for `[F#]`.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [Flurl.Http](http://tmenier.github.io/Flurl/) - Fluent, portable, testable REST/HTTP client library
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
@@ -393,6 +398,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Visual Studio Community](https://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx) - A full-Featured IDE - Free
 * [Waf DotNetPad](http://dotnetpad.codeplex.com) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent free editor from Microsoft, based on GitHub Atom.
+* [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 
 ## Image Processing
 
@@ -476,6 +482,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [MathNet](http://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
+* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
 
 ## Media
 
@@ -514,6 +521,7 @@ metadata in media files, including video, audio, and photo formats
 * [Jint](https://github.com/sebastienros/jint) - Javascript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET plaftform.
 * [MSBuild ILMerge task](https://ilmergemsbuild.codeplex.com/) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
+* [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 
 ## MVVM
 
@@ -587,6 +595,7 @@ metadata in media files, including video, audio, and photo formats
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
 * [Foundatio](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+* [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## Reactive Programming
 
@@ -627,6 +636,8 @@ metadata in media files, including video, audio, and photo formats
 * [F# Data](http://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Wire](https://github.com/akkadotnet/Wire) - A high performance polymorphic serializer for the .NET framework.
+* [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
+* [FsPickler](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 
 ## State machines
 
@@ -676,6 +687,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Tools
 
+* [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
 * [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
@@ -711,8 +723,8 @@ metadata in media files, including video, audio, and photo formats
 
 ## Web Servers
 
+* [Kestrel](https://github.com/aspnet/KestrelHttpServer) -  A web server for ASP.NET Core based on libuv
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
-* [Jexus web server](http://www.jexus.org) - Web server for Linux
 * [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
